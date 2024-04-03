@@ -1,4 +1,4 @@
-package example;
+package example.constantes;
 
 public class PersonaConst {
 	

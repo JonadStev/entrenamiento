@@ -1,4 +1,4 @@
-package example;
+package example.herencia;
 
 public class Estudiante extends Persona {
 	

@@ -1,4 +1,6 @@
-package example;
+package example.herencia;
+
+import example.constantes.PersonaConst;
 
 public class Persona {
 	
